@@ -1,0 +1,160 @@
+.logo {
+	display: flex;
+	width: 100%;
+}
+
+.vse {
+	width: 1900px;
+	color: ;
+}
+
+.logo > div {
+	width: 33%;
+}
+
+.mg1 {
+	width: 150px;
+	height: 80px;
+}
+
+.logo2 {
+	text-align: center;
+	word-spacing: 40px;
+	padding-top: 20px;
+	color: #6d7f9c;
+	margin: auto;
+}
+
+.logo3 {
+	text-align: right;
+	word-spacing: 5px;
+	padding-top: 20px;
+}
+
+.plogo {
+	text-align: center;
+}
+
+.mg2 {
+	width: 1300px;
+	border-radius: 6px;
+}
+
+.mg3 {
+	border-radius: 6px;
+}
+
+.mg4 {
+	border-radius: 6px;
+}
+
+.plogo2 {
+	display: flex;
+	text-align: center;
+}
+
+.plogo2 > div {
+	width: 50%;
+}
+
+.pplogo1 {
+	text-align: right;
+	padding-right: 5px;
+	padding-top: 16px;
+}
+
+.news {
+	background: #4746d8;
+	padding: 10px 8px;
+	color: white;
+}
+
+.pplogo2 {
+	text-align: left;
+	padding-left: 5px;
+}
+
+.txst {
+	width: 1900px;
+	line-height: 30px;
+	word-spacing: 10px;
+}
+
+.txst1 {
+	width: 50%;
+	margin: 0 auto;
+	font-family: cursive ;
+}
+
+p {
+	color: #6d7f9c;
+}
+
+.ttxst {
+	text-align: center;
+}
+
+.ttxst1 {
+	display: flex;
+}
+
+.aaauthor {
+	display: flex;
+}
+
+.aauthor {
+	padding-left: 10px;
+}
+
+.author {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	padding-top: 6px;
+}
+
+.autr {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.dmo {
+	padding: 15px 8px;
+	background: #14bde6;
+}
+
+a {
+	text-decoration: none;
+}
+
+.login {
+	color: black;
+}
+
+.gg > div {
+	width: 33%;
+}
+
+.gg {
+	width: 1900px;
+	display: flex;
+	text-align: center;
+	background-color: white ;
+    margin: 0 auto;
+    border-radius: 28px;
+}
+
+.imgg {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  overflow: hidden;
+  width: 400px;
+}
+
+.gg h2 {
+	margin: 25px;
+}
+
+.tri {
+	background-color: #fcfcfc;
+}
